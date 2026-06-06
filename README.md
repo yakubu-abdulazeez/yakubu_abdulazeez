@@ -7,5 +7,5 @@ I am a Software Verification & Validation (V&V) Engineer specializing in autonom
 ## 🚀 Active Development Projects
 * **[epuck_ros2](./epuck_ros2):** ROS 2 implementation and simulation mapping for the e-puck micro-robot platform.
 * **[robot_urdf_simulation](./robot_urdf_simulation_zizzy):** Custom URDF and Xacro configuration setups for differential-drive platforms in Gazebo.
-* **[ros2_fundamentals](./ros2_fundamentals):** Core C++ and Python nodes executing lifecycle states and custom interfaces.---
+* **[ros2_fundamentals](./ros2_fundamentals):** Core C++ and Python nodes executing lifecycle states and custom interfaces.
 📫 How to reach me: Connect with me on (https://www.linkedin.com/in/yakubu-abdulazeez-17a88760/)
